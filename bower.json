@@ -1,0 +1,11 @@
+{
+  "name": "lumbermill",
+  "version": "1.0.0",
+  "homepage": "https://github.com/marcinploski/lumbermill",
+  "dependencies": {
+    "bootstrap-sass-official": "3.3.3",
+    "modernizr": "2.8.3",
+    "respond": "1.4.2",
+    "jquery": "2.1.3"
+  }
+}
